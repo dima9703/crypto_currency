@@ -1,0 +1,12 @@
+{
+  "frequency": "day",
+  "max_iterations": 20,
+  "latent_dimension": 10,
+  "percentage_using_data": 90,
+  "number_input_files": 200,
+  "ARLags": 5,
+  "lambda_F": 1.5,
+  "lambda_x": 1.5,
+  "lambda_w": 1.5,
+  "necessary_columns": [1, 2, 3, 4]
+}
